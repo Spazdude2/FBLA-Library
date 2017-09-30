@@ -9,20 +9,25 @@ namespace FBLA_Library.Source.Books
 {
     class BookManager
     {
-        public static Book getBook(long id)    //Int 8 didget
+        public static Book getBook(int id)    //Int 5 didget
         {
             String fileText = getText(id);
 
             if (fileText == "-1")
-            {
-                Console.WriteLine("That is not a valid book");
                 return null;
-            }
 
             return new Book(fileText);
         }
 
-        private static string getText(long name)
+        public static Book createBook(int id, String values)
+        {
+            generate(id, values);
+
+            return getBook(id);
+
+        }
+
+        private static string getText(int name)
         {
             String vals = "";
             String line;
@@ -52,6 +57,21 @@ namespace FBLA_Library.Source.Books
             }
 
             return vals;
+        }
+
+        private static void generate(int id, String values)
+        {
+
+            string path = "./Books/" + id + ".txt";
+
+            if (!File.Exists(path))
+            {
+                // Create a file to write to.
+                using (StreamWriter sw = File.CreateText(path))
+                {
+                    sw.WriteLine(values);
+                }
+            }
         }
     }
 }

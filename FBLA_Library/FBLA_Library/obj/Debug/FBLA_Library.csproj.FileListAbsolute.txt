@@ -6,3 +6,12 @@ C:\Users\eahscs\Desktop\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.exe
 C:\Users\eahscs\Desktop\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.pdb
 C:\Users\eahscs\Desktop\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.csproj.GenerateResource.Cache
 C:\Users\eahscs\Desktop\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.Properties.Resources.resources
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\bin\Debug\FBLA_Library.exe.config
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\bin\Debug\FBLA_Library.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\bin\Debug\FBLA_Library.pdb
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.Properties.Resources.resources
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.csproj.GenerateResource.Cache
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\FBLA-Library\FBLA_Library\FBLA_Library\obj\Debug\FBLA_Library.pdb

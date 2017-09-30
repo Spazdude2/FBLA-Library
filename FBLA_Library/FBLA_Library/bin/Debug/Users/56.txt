@@ -1,4 +1,0 @@
-name: Anthony
-userType: Student
-Books: 5
-Book1: 1

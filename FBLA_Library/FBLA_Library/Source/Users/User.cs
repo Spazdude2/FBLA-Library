@@ -40,9 +40,10 @@ namespace FBLA_Library.Source.Users
 
         public void showRaw()
         {
-            Console.WriteLine("What data do you need? (none to end)?");
-            
+            Console.WriteLine("What data do you need? (Name/userType/Books/Book(i)/Overdue)(none to end)");
+            Console.Write("> ");
             String s = Console.ReadLine();
+            Console.WriteLine();
             if (s == "none") return;
 
             if (s == "GetBooks")
